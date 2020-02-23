@@ -1,0 +1,11 @@
+E:\college\Dotnetproject\Dotnet\practicals\practical4\bin\Debug\netcoreapp3.1\practical4.exe
+E:\college\Dotnetproject\Dotnet\practicals\practical4\bin\Debug\netcoreapp3.1\practical4.deps.json
+E:\college\Dotnetproject\Dotnet\practicals\practical4\bin\Debug\netcoreapp3.1\practical4.runtimeconfig.json
+E:\college\Dotnetproject\Dotnet\practicals\practical4\bin\Debug\netcoreapp3.1\practical4.runtimeconfig.dev.json
+E:\college\Dotnetproject\Dotnet\practicals\practical4\bin\Debug\netcoreapp3.1\practical4.dll
+E:\college\Dotnetproject\Dotnet\practicals\practical4\bin\Debug\netcoreapp3.1\practical4.pdb
+E:\college\Dotnetproject\Dotnet\practicals\practical4\obj\Debug\netcoreapp3.1\practical4.csprojAssemblyReference.cache
+E:\college\Dotnetproject\Dotnet\practicals\practical4\obj\Debug\netcoreapp3.1\practical4.AssemblyInfoInputs.cache
+E:\college\Dotnetproject\Dotnet\practicals\practical4\obj\Debug\netcoreapp3.1\practical4.AssemblyInfo.cs
+E:\college\Dotnetproject\Dotnet\practicals\practical4\obj\Debug\netcoreapp3.1\practical4.dll
+E:\college\Dotnetproject\Dotnet\practicals\practical4\obj\Debug\netcoreapp3.1\practical4.pdb
