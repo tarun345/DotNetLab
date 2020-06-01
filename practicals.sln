@@ -3,13 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practical1", "practical1\practical1.csproj", "{C4EEF280-EF24-4A7F-BEA2-FE8F94CC972A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practical1", "practical1\practical1.csproj", "{C4EEF280-EF24-4A7F-BEA2-FE8F94CC972A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practical2", "practical2\practical2.csproj", "{9E3E8CD9-CF6F-41D9-A531-37F2E150FB9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practical2", "practical2\practical2.csproj", "{9E3E8CD9-CF6F-41D9-A531-37F2E150FB9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practical3", "practical3\practical3.csproj", "{3C3D6961-FF82-407A-B286-692E52A36AD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practical3", "practical3\practical3.csproj", "{3C3D6961-FF82-407A-B286-692E52A36AD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practical4", "practical4\practical4.csproj", "{509C156F-FAE2-40D0-8DED-42ABB77CB5DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practical4", "practical4\practical4.csproj", "{509C156F-FAE2-40D0-8DED-42ABB77CB5DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practical5", "practical5\practical5.csproj", "{541A4A0B-90ED-4370-9B74-9008F9AC83CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practical6", "practical6\practical6.csproj", "{1AE6198A-311A-43C6-965B-BBC4995FD5F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practical 8", "practical 8\practical 8.csproj", "{3E593074-4E03-4E44-869E-5474E98A3783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form_practical", "form_practical\form_practical.csproj", "{1136AD2E-9FEF-4E82-8031-C5AD37C523A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practical7", "practical7\practical7.csproj", "{284CE15C-B31B-4220-9FD8-A3A00DA202CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{509C156F-FAE2-40D0-8DED-42ABB77CB5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{509C156F-FAE2-40D0-8DED-42ABB77CB5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{509C156F-FAE2-40D0-8DED-42ABB77CB5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541A4A0B-90ED-4370-9B74-9008F9AC83CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541A4A0B-90ED-4370-9B74-9008F9AC83CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541A4A0B-90ED-4370-9B74-9008F9AC83CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541A4A0B-90ED-4370-9B74-9008F9AC83CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE6198A-311A-43C6-965B-BBC4995FD5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE6198A-311A-43C6-965B-BBC4995FD5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE6198A-311A-43C6-965B-BBC4995FD5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE6198A-311A-43C6-965B-BBC4995FD5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E593074-4E03-4E44-869E-5474E98A3783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E593074-4E03-4E44-869E-5474E98A3783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E593074-4E03-4E44-869E-5474E98A3783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E593074-4E03-4E44-869E-5474E98A3783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1136AD2E-9FEF-4E82-8031-C5AD37C523A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1136AD2E-9FEF-4E82-8031-C5AD37C523A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1136AD2E-9FEF-4E82-8031-C5AD37C523A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1136AD2E-9FEF-4E82-8031-C5AD37C523A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284CE15C-B31B-4220-9FD8-A3A00DA202CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284CE15C-B31B-4220-9FD8-A3A00DA202CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284CE15C-B31B-4220-9FD8-A3A00DA202CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284CE15C-B31B-4220-9FD8-A3A00DA202CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

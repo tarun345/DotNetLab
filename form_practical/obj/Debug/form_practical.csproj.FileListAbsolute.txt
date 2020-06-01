@@ -1,0 +1,9 @@
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\bin\Debug\form_practical.exe.config
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\bin\Debug\form_practical.exe
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\bin\Debug\form_practical.pdb
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\obj\Debug\form_practical.csprojAssemblyReference.cache
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\obj\Debug\form_practical.Form1.resources
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\obj\Debug\form_practical.Properties.Resources.resources
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\obj\Debug\form_practical.csproj.GenerateResource.cache
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\obj\Debug\form_practical.exe
+E:\college\Dotnetproject\Dotnet\practicals\form_practical\obj\Debug\form_practical.pdb
